@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**macdanson/macdanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Mac Danson**. Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Fullstack developer specializing in Laravel development.
+
+**About me**
+
+- 💼 Fullstack developer at [Nugsoft Technologies](https://nugsoft.com/)
+- ❤️ I love writing [PHP](https://www.php.net/), and [Flutter](https://www.flutter.dev)
+
+
+##### Let us connect on Social Media
+<p><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2FNahabweDanson"></p>
