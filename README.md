@@ -12,4 +12,3 @@ I'm a Fullstack developer specializing in Laravel development.
 
 
 ##### Let us connect on Social Media
-<p><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fwww.twitter.com%2FNahabweDanson"></p>
